@@ -1,0 +1,7 @@
+---
+apt_installed_packages:
+  - dropbox
+  - firefox
+  - htop
+  - tmux
+  - redshift-gtx
